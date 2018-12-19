@@ -19592,7 +19592,7 @@ MonoBehaviour:
   speed: 2.5
   fuelDuration: 2
   bulletSpeed: 2
-  bulletPrefab: {fileID: 1541759786624874, guid: 63a2cbf0ac7073f49a64a80ebf0f1367,
+  bulletPrefab: {fileID: 1382650870354510, guid: b66615885809478479e4d1848f82acca,
     type: 2}
   explosionForce: 5
   fuelSliderParent: {fileID: 1644737127}
